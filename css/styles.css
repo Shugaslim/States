@@ -1,0 +1,51 @@
+html{
+	background-color: #F8F8FF;
+}
+h1{
+	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+	color: #F8F8FF;
+	font-size: 80px;
+
+}
+body{
+	text-align: center;
+	padding: 40px;
+}
+#Header{
+	text-align: center;
+	background-color: #C0C0C0;
+}
+#states{
+	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+	font-size: 50px;
+}
+#statebox{
+	width: 500px;
+	height: 300px;
+	text-align: center;
+	display: inline-block;
+	margin: 0 auto;
+	background-color: #F8F8FF;
+}
+#statebutton
+{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 20px;
+	background-color: #C0C0C0;
+	cursor: pointer;
+ 	border: none;
+ 	padding: 15px 25px;
+ 	display: inline-block;
+ 	width: 150px;
+ 	height: 80px;
+}
+#statebuttondiv{
+	text-align: center;
+}
+#trajectory{
+	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+	font-size: 10px;
+}
+#trajbox{
+	text-align: center;
+}
